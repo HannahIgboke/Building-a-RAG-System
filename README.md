@@ -1,5 +1,10 @@
 # 👨‍💻Building a RAG System
 
+<p align="center">
+    <img width="500" src="https://github.com/HannahIgboke/Building-a-RAG-System/blob/main/RAG.png" alt="RAG">
+</p>
+
+
 As we know that LLMs like Gemini lack the company specific information. But this latest information is available via PDFs, Text Files, etc... Now if we can connect our LLM with these sources, we can build a much better application.
 
 
