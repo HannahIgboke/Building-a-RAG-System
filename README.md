@@ -18,6 +18,4 @@ You can find the paper [here](https://arxiv.org/pdf/2404.07143.pdf).
 - Streamlit
 
 
-Find the complete code implementation here.
-
-Compares the models: Infini-Transformer, and Transformer-XL.
+Find the complete code implementation [here](https://github.com/HannahIgboke/Building-a-RAG-System/blob/main/RAG_app.py).
