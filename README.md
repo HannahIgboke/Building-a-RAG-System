@@ -7,4 +7,12 @@ Using LangChain framework, I built a  Retrieval Augmented Generation (RAG) syste
 
 You can find the paper [here](https://arxiv.org/pdf/2404.07143.pdf).
 
-And the complete code implementation here.
+# 🛠 Tech stack
+- Langchain
+- ChromaDB
+- Streamlit
+
+
+Find the complete code implementation here.
+
+Compares the models: Infini-Transformer, and Transformer-XL.
